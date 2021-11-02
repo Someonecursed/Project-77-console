@@ -1,0 +1,21 @@
+h1 {
+    font-family: 'Permanent Marker', cursive;
+    color: gold;
+    text-decoration: underline gold;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: 'Indie Flower', cursive;
+    color: gold;
+    font-size: 40px;
+    
+}
+
+h3 {
+    color: orchid;
+    font-family: 'Indie Flower', cursive;
+    margin-right: 500px;
+    margin-left: 500px;  
+    font-size: 25px;
+}
